@@ -9,13 +9,13 @@ I, on the other hand, is known as /snooyed/ in my community. I am an Arizona Sta
 
 ## Projects
 
-:arrow_forward: viberol.com - collaborative community of freelancers
+:arrow_forward: [viberol.com](https://viberol.com) - collaborative community of freelancers
 
-:arrow_forward: tikinerds.com - personal team of professionals exploring experimental technologies
+:arrow_forward: [tikinerds.com](https://tikinerds.com) - personal team of professionals exploring experimental technologies
 
-:arrow_forward: snooyed.com - gamer friends and family
+:arrow_forward: [snooyed.com](https://snooyed.com) - gamer friends and family
 
-:arrow_forward: slotar.house - /still/ a dream project
+:arrow_forward: [slotar.house](https://slotar.house) - /still/ a dream project
 
 <!--
 **tikinerds/tikinerds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
